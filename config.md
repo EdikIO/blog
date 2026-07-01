@@ -1,2 +1,3 @@
 [title]: <> (Edik's website)
-[icon]: <> ()
+[icon]: <> (/images/icon.png)
+[domain]: <> (https://edikio.github.io/blog)
